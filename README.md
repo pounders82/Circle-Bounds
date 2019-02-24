@@ -5,7 +5,7 @@
 
 
 ## General info
-This project is a simple application that I created in order to practice the concepts of JavaFx. 
+This project is a simple application that I created in order to practice the concepts of JavaFx. When the user left clicks on the screen a circle appears which is bounded by a rectangle.  As the user continues to left click more circles appear and they are all bounded by the same rectangle.  When the user right clicks on a circle it disappears and the rectangle is updated to bound the remaining circles.
 	
 ## Technologies
 Project is created with:
